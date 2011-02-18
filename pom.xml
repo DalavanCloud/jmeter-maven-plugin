@@ -13,6 +13,10 @@
     <url>http://jakarta.apache.org/jmeter</url>
 
     <repositories>
+       	<repository>
+          <id>Maven JMeter Plugin</id>
+          <url>http://yciabaud.github.com/jmeter-maven-plugin/repository</url>
+	</repository>
         <repository>
             <id>Java maven repo</id>
             <url>http://download.java.net/maven/2</url>
